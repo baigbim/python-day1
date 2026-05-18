@@ -1,4 +1,0 @@
-vehicle = ["Pro 2095", "Pro 2075"]
-
-for i in vehicle:
-    print(i)
